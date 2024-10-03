@@ -2,5 +2,5 @@
   { "url":"music01/sonido1.mp3","type":"audio","bank":"music01","n":0},
   { "url":"music01/sonido2.mp3","type":"audio","bank":"music01","n":1},
   { "url":"music01/sonido3.mp3","type":"audio","bank":"music01","n":2},
-  { "url":"music01/sonido4.mp3","type":"audio","bank":"music01","n":3},
+  { "url":"music01/sonido4.mp3","type":"audio","bank":"music01","n":3}
  ]
