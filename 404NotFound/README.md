@@ -1,2 +1,2 @@
-[noises](noises.json)
+[noises](sound/noises.json)
 
