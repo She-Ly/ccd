@@ -1,2 +1,2 @@
-[noises](sound/README.md)
+[noises](sound/noises.json)
 
