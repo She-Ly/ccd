@@ -7,7 +7,7 @@
 !reslist"https://she-ly.github.io/ccd/music/samples.json"
 
 ##Equipo
-+ [noises](404NotFound/README.md)
++ [noises](404NotFound/sound/README.md)
 + [image](404NotFound/image/README.md)
 + [video](404NotFound/video/README.md)
 
