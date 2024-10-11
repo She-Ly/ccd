@@ -1,6 +1,6 @@
 [
-  { "url":"404NotFound/sound/noise01.mp3","type":"audio","bank":"sound","n":0},
-  { "url":"404NotFound/sound/noise02.mp3","type":"audio","bank":"sound","n":1},
+  {"url":"404NotFound/sound/noise01.mp3","type":"audio","bank":"sound","n":0},
+  {"url":"404NotFound/sound/noise02.mp3","type":"audio","bank":"sound","n":1},
   {"url":"404NotFound/sound/noise03.mp3","type":"audio","bank":"sound","n":2},
   {"url":"404NotFound/sound/noise04.mp3","type":"audio","bank":"sound","n":3},
   {"url":"404NotFound/sound/noise05.mp3","type":"audio","bank":"sound","n":4},
